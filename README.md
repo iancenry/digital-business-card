@@ -1,9 +1,9 @@
 
-#Digital Business Card 
+# Digital Business Card 
 This project was built with React.
 
 
-##Quick Setup
+## Quick Setup
 Fork then clone the project into local machine 🍴
 run 'npm install' in the root folder to install all the necessary packages 👩‍💻
 Happy coding 💻
